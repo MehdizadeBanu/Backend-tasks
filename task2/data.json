@@ -1,0 +1,12 @@
+{
+    "data" :[
+    {"id": 2, "name": "Samsung Galaxy Z Fold", "amount":4000, "cost":689},
+    {"id": 1, "name": "Iphone 14 Pro Max", "amount":3200, "cost":347},
+    {"id": 7, "name": "Lenovo Ideapad Notebook", "amount":1000, "cost":875},
+    {"id": 3, "name": "Xiaomi Redmi Note 9S", "amount":870, "cost":322},
+    {"id": 4, "name": "Samsung Galaxy S10", "amount":450, "cost":674},
+    {"id": 5, "name": "Huawei MediaPad T18.0", "amount":300, "cost":875},
+    {"id": 6, "name": "ACER Aspire E5-575G", "amount":1200, "cost":543},
+    {"id": 8, "name": "ASUS TUFF Gaming Laptop", "amount":2500, "cost":532}
+    ]
+}
